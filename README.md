@@ -1,64 +1,28 @@
-### Hi there, I'm Julio Alfian 👋
+<h1 align="center">Hi 👋, I'm Julio Alfian</h1>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-## I'm a Frontend, Developer, and Futsal Player!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=julioalfian" alt="julioalfian" /> </p>
 
-- 🔭 I’m currently working on a [Frontend Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Travelling to others country
-- ⚡ Fun fact: I love playing Futsal and swimming
+- 🔭 I’m currently working on [Frontend Course](https://www.youtube.com/channel/UCjAOHg2zAtolzskJwJAs2sA?view_as=subscriber)
 
-### Connect with me:
+- 🌱 I’m currently learning **everything**
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 👨‍💻 All of my projects are available at [https://github.com/julioalfian](https://github.com/julioalfian)
 
-<br />
+- 💬 Ask me about **vuejs**
 
-### Languages and Tools:
+- 📫 How to reach me **julioixc@gmail.com**
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+- ⚡ Fun fact **I love playing futsal and swimming**
 
-<br />
-<br />
+<p align="left"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioalfian&layout=compact&hide=html" alt="julioalfian" />
 
----
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=julioalfian&show_icons=true" alt="julioalfian" />
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-
-- [Tutorial Membuat Website dengan PUG + SCSS + PREPROS](https://www.youtube.com/watch?v=CoPIn9R0GEs)
-- [Tutorial Website Membuat Header Dengan Bootstrap + Pug + Sass](https://www.youtube.com/watch?v=rB-dmx4sG2c)
-- [Google Font | Tutorial Web Import Font](https://www.youtube.com/watch?v=A6T3s0zZaEM)
-<!-- YOUTUBE:END -->
-
----
-
-<img align="left" alt="julioalfian's Github Stats" src="https://github-readme-stats.julioalfian.vercel.app/api?username=julioalfian&show_icons=true&hide_border=true" />
-
-[website]: http://julioalfian.github.io/
-[twitter]: https://twitter.com/lyo_aza
-[youtube]: https://www.youtube.com/channel/UCjAOHg2zAtolzskJwJAs2sA/
-[instagram]: https://www.instagram.com/julioalfian/
-[linkedin]: https://www.linkedin.com/in/julioalfian/
-[webdevplaylist]: https://www.youtube.com/channel/UCjAOHg2zAtolzskJwJAs2sA/
-[jsplaylist]: https://www.youtube.com/channel/UCjAOHg2zAtolzskJwJAs2sA/
-[cssplaylist]: https://www.youtube.com/channel/UCjAOHg2zAtolzskJwJAs2sA/
-[reactplaylist]: https://www.youtube.com/channel/UCjAOHg2zAtolzskJwJAs2sA/
+<p align="center">
+<a href="https://twitter.com/lyo_aza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lyo_aza" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/julioalfian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="julioalfian" height="30" width="30" /></a>
+<a href="https://fb.com/julioalfiandwicahya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="julioalfiandwicahya" height="30" width="30" /></a>
+<a href="https://instagram.com/julioalfian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="julioalfian" height="30" width="30" /></a>
+<a href="https://www.youtube.com/c/jadc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="jadc" height="30" width="30" /></a>
+</p>
