@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/julioalfian](https://github.com/julioalfian)
 
-- 💬 Ask me about **vuejs**
+- 💬 Ask me about **html, scss, js, vuejs**
 
 - 📫 How to reach me **julioixc@gmail.com**
 
