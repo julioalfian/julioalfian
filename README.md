@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julioalfian" alt="julioalfian" /> </p>
 
-- 🔭 I’m currently working on [Frontend Course](https://www.youtube.com/channel/UCjAOHg2zAtolzskJwJAs2sA?view_as=subscriber)
+- 🔭 I’m currently building my chanel at [Youtube](https://www.youtube.com/channel/UCjAOHg2zAtolzskJwJAs2sA?view_as=subscriber)
 
 - 🌱 I’m currently learning **everything**
 
