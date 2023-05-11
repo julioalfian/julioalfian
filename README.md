@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **everything**
 
-- 👨‍💻 All of my projects are available at [https://github.com/julioalfian](https://github.com/julioalfian)
+- 👨‍💻 My personal website are available at [Here](https://julioalfian.site)
 
 - 💬 Ask me about **html, scss, js, vuejs, reactjs**
 
