@@ -9,11 +9,7 @@
 
 - 👨‍💻 My personal website are available at [Here](https://julioalfian.site)
 
-- 💬 Ask me about **html, scss, js, vuejs, reactjs**
-
-- 📫 How to reach me **julioixc@gmail.com**
-
-- ⚡ Fun fact **I love playing futsal and swimming**
+- 💬 Ask me about **html, scss, js/ts, vuejs, reactjs/ts, nextjs, angular**
 
 
 
