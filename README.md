@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **everything**
 
-- 👨‍💻 My personal website are available at [Here](https://julioalfian.site)
+- 👨‍💻 My personal website are available at [Here](https://www.julioalfian.site)
 
 - 💬 Ask me about **html, scss, js/ts, vuejs, reactjs/ts, nextjs, angular**
 
